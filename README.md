@@ -1,7 +1,9 @@
 # GENERAR_PDF_APLICACION_WEB
 En este ejemplo se muestra de 2 maneras como se genera el PDF , una usando la librería  ITEXTPDF  y otra que tiene HTML la función PRINT. Los datos que se utilizarán viene de una base de datos MySQL. 
 
-LIBRERIAS USADAS:
+```diff
+! LIBRERIAS USADAS:
+```
 
 :ballot_box_with_check: Conector MySQL
 
@@ -41,3 +43,5 @@ correo varchar(32) NOT NULL
 );
 
 :blush: Compartiendo con la comunidad .
+
+

@@ -40,4 +40,4 @@ correo varchar(32) NOT NULL
 
 );
 
-blush Compartiendo con la comunidad .
+:blush: Compartiendo con la comunidad .

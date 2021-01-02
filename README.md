@@ -1,5 +1,5 @@
 # GENERAR_PDF_APLICACION_WEB
-En este ejemplo se muestra de 2 maneras como se genera el PDF , una usando la librería  ITEXTPDF  y otra que tiene HTML la función PRINT. Los datos que se utilizarán viene de una base de datos MySQL. 
+En este ejemplo se muestra de 2 maneras como se genera el PDF , una usando la librería  ITEXTPDF  y otra que tiene HTML la función PRINT. Los datos que se utilizarán viene de una base de datos MySQL.El entorno desarrollado Netbeans 8.2
 
 ```diff
 ! LIBRERIAS USADAS:
